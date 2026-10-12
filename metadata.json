@@ -1,0 +1,6 @@
+{
+  "name": "PlantPro Books & FieldOps",
+  "description": "Offline-first bookkeeping, receipt OCR scanning, site photo markup, GPS time tracking, and Google Sheets synchronization for landscaping and field service businesses.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

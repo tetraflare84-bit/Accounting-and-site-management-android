@@ -1,0 +1,15 @@
+{
+  "appId": "com.plantpro.fieldops",
+  "appName": "PlantPro Books",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://ais-pre-tuxvezf7zpb22todvyw62x-527694998885.us-east1.run.app",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}
